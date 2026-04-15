@@ -218,3 +218,12 @@ poetry.toml
 pyrightconfig.json
 
 # End of https://www.toptal.com/developers/gitignore/api/python,jupyternotebooks,macos
+
+# MLflow
+mlruns/
+
+# Model files
+*.pkl
+*.h5
+*.pt
+*.pth
